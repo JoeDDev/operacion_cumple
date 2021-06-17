@@ -53,3 +53,19 @@
     transform: translate(24px, 0);
   }
 }
+.footer{
+      height: 250px;
+      display: flex;
+      line-height: 230px;
+      text-align: center;
+      border-top: 500px;
+      font-family: 'Yellowtail', cursive;
+      font-size: 60px;
+      color: white;
+      background-color: black;
+    }
+
+a{
+  text-decoration: none;
+  color: white;
+}
