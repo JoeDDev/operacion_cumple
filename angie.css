@@ -62,10 +62,10 @@
       font-family: 'Yellowtail', cursive;
       font-size: 60px;
       color: white;
-      background-color: white;
+      background-color: black;
     }
 
 a{
   text-decoration: none;
-  color: white;
+  color: black;
 }
